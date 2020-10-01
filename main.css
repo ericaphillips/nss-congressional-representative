@@ -1,0 +1,40 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+main {
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+.lamar__legislation {
+    text-decoration-color: black;
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: gray;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: maroon;
+    background-color: transparent;
+    text-decoration: underline;
+  }
